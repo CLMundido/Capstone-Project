@@ -49,8 +49,8 @@
 
             <div class="bg-white/80 p-8 rounded-3xl border border-white shadow-sm hover:shadow-md transition">
                 <div class="text-3xl mb-4">📂</div>
-                <h3 class="text-xl font-bold mb-2">Feature Name</h3>
-                <p class="text-slate-500">Feature Description</p>
+                <h3 class="text-xl font-bold mb-2">Customize</h3>
+                <p class="text-slate-500">Text</p>
             </div>
         </section>
     </div>
