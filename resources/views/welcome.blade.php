@@ -43,8 +43,8 @@
 
             <div class="bg-white/80 p-8 rounded-3xl border border-white shadow-sm hover:shadow-md transition">
                 <div class="text-3xl mb-4">📂</div>
-                <h3 class="text-xl font-bold mb-2">Nikol</h3>
-                <p class="text-slate-500">Nikol</p>
+                <h3 class="text-xl font-bold mb-2">Customize2</h3>
+                <p class="text-slate-500">Text 2</p>
             </div>
 
             <div class="bg-white/80 p-8 rounded-3xl border border-white shadow-sm hover:shadow-md transition">
