@@ -37,8 +37,8 @@
         <section class="container mx-auto px-6 py-12 grid md:grid-cols-3 gap-8">
             <div class="bg-white/80 p-8 rounded-3xl border border-white shadow-sm hover:shadow-md transition">
                 <div class="text-3xl mb-4">📂</div>
-                <h3 class="text-xl font-bold mb-2">Kulkul</h3>
-                <p class="text-slate-500">Walang Kilay</p>
+                <h3 class="text-xl font-bold mb-2">Chan</h3>
+                <p class="text-slate-500">HAHA Kilay</p>
             </div>
 
             <div class="bg-white/80 p-8 rounded-3xl border border-white shadow-sm hover:shadow-md transition">
