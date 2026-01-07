@@ -17,8 +17,8 @@
                 </div>
             </a>
             <div class="space-x-4">
-                <a href="" class="font-medium text-slate-600 hover:text-indigo-600">Log in</a>
-                <a href="{{ route('subscribe') }}" class="px-6 py-2 bg-indigo-600 text-white rounded-full hover:bg-indigo-700 transition">Get Started</a>
+                <a href="{{ route('login') }}" class="font-medium text-slate-600 hover:text-indigo-600">Log in</a>
+                <a href="{{ route('subscription') }}" class="px-6 py-2 bg-indigo-600 text-white rounded-full hover:bg-indigo-700 transition">Get Started</a>
             </div>
         </div>
     </nav>
@@ -28,6 +28,10 @@
             <div class="text-center mb-16">
                 <h2 class="text-4xl md:text-5xl font-black text-slate-900 mb-4">Ready to upgrade your workflow?</h2>
                 <p class="text-lg text-slate-600 max-w-xl mx-auto">TEXT HERE</p>
+            </div>
+
+            <div class="text-center mb-16">
+                <a href="{{ route('subscribe') }}" class="px-8 py-4 bg-indigo-600 text-white font-bold rounded-2xl shadow-lg shadow-indigo-200">Start Tracking Now</a>
             </div>
 
             <div class="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto">
@@ -46,7 +50,7 @@
                             Service Here
                         </li>
                     </ul>
-                    <button class="w-full py-3 px-6 bg-slate-100 text-slate-900 font-bold rounded-xl hover:bg-slate-200 transition">Button</button>
+                    <!-- <button class="w-full py-3 px-6 bg-slate-100 text-slate-900 font-bold rounded-xl hover:bg-slate-200 transition">Button</button> -->
                 </div>
 
                 <div class="bg-white/60 backdrop-blur-sm p-8 rounded-3xl border border-slate-200 flex flex-col hover:border-indigo-300 transition">
@@ -63,7 +67,7 @@
                             Service Here
                         </li>
                     </ul>
-                    <button class="w-full py-3 px-6 border border-slate-300 text-slate-900 font-bold rounded-xl hover:bg-slate-50 transition">Button</button>
+                    <!-- <button class="w-full py-3 px-6 border border-slate-300 text-slate-900 font-bold rounded-xl hover:bg-slate-50 transition">Button</button> -->
                 </div>
 
                 <div class="bg-white/60 backdrop-blur-sm p-8 rounded-3xl border border-slate-200 flex flex-col hover:border-indigo-300 transition">
@@ -80,7 +84,7 @@
                             Service Here
                         </li>
                     </ul>
-                    <button class="w-full py-3 px-6 border border-slate-300 text-slate-900 font-bold rounded-xl hover:bg-slate-50 transition">Button</button>
+                    <!-- <button class="w-full py-3 px-6 border border-slate-300 text-slate-900 font-bold rounded-xl hover:bg-slate-50 transition">Button</button> -->
                 </div>
             </div>
         </div>
